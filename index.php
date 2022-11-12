@@ -1,1 +1,3 @@
-<?php echo phpversion(); ?>
+<?php 
+echo "<p>Copyright &copy;1999-" . date("Y") . "simran.com</p>"; 
+?>
