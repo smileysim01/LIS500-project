@@ -6,7 +6,7 @@
 <body>
     <!-- Nav Bar Start -->
     <div class="navbar">
-        <a href="../index.html">Home</a>
+        <a href="../index.php">Home</a>
         <div class="dropdown">
             <button class="dropbtn">About 
                 <i class="fa fa-caret-down"></i>
@@ -34,7 +34,7 @@
         <p>We began assignment 1 when Sam made a post in the group discussion, which Simran responded to. We set up a Microsoft Teams call, which was recorded using the built-in tools for recording within Teams. We then proceded to go through the discussion questions. We ended up having some additional conversation before and after the contents of the video that was uploaded, but it needed to be cut to fit within the time limit. Editing was done by Sam using Final Cut Pro.</p>
         <center><iframe width="400" height="300" src="https://www.youtube.com/embed/PJ1pn0vNTgw" align="center">
 </iframe></center>
-        <?php include 'index.php';?>
+        <?php include 'contact.php';?>
         
     </div>
 </body>
